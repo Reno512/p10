@@ -30,7 +30,7 @@
         android:id="@+id/editTextSearchName"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:hint="Ketik nama kurir atau perusahaan..."
+        android:hint="🔍 Ketik nama kurir yang dicari..."
         android:inputType="text"
         android:paddingHorizontal="14dp"
         android:background="@android:drawable/editbox_background_normal"

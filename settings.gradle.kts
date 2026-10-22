@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KurirDirectoryApp"
+rootProject.name = "p10"
 include(":app")
  
